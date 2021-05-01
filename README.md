@@ -3,5 +3,5 @@ I challenged myself to create a website in only 72 hours (3 days). So, on May 7t
 
 
 
-Want to go to the website? Click on this URL! >>> https://playplaza.github.io/72-hour-website/
+Want to go to the website? Click on this URL! >>> https://playplazaguy.github.io/72-hour-website/
 
